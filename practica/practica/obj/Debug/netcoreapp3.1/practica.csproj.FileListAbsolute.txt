@@ -1,0 +1,14 @@
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\practica\practica\bin\Debug\netcoreapp3.1\practica.exe
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\practica\practica\bin\Debug\netcoreapp3.1\practica.deps.json
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\practica\practica\bin\Debug\netcoreapp3.1\practica.runtimeconfig.json
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\practica\practica\bin\Debug\netcoreapp3.1\practica.runtimeconfig.dev.json
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\practica\practica\bin\Debug\netcoreapp3.1\practica.dll
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\practica\practica\bin\Debug\netcoreapp3.1\practica.pdb
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\practica\practica\obj\Debug\netcoreapp3.1\practica.csproj.AssemblyReference.cache
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\practica\practica\obj\Debug\netcoreapp3.1\practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\practica\practica\obj\Debug\netcoreapp3.1\practica.AssemblyInfoInputs.cache
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\practica\practica\obj\Debug\netcoreapp3.1\practica.AssemblyInfo.cs
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\practica\practica\obj\Debug\netcoreapp3.1\practica.csproj.CoreCompileInputs.cache
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\practica\practica\obj\Debug\netcoreapp3.1\practica.dll
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\practica\practica\obj\Debug\netcoreapp3.1\practica.pdb
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\practica\practica\obj\Debug\netcoreapp3.1\practica.genruntimeconfig.cache

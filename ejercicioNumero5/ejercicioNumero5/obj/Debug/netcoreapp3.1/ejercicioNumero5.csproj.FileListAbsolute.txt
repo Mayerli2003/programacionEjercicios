@@ -1,0 +1,14 @@
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\ejercicioNumero5\ejercicioNumero5\bin\Debug\netcoreapp3.1\ejercicioNumero5.exe
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\ejercicioNumero5\ejercicioNumero5\bin\Debug\netcoreapp3.1\ejercicioNumero5.deps.json
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\ejercicioNumero5\ejercicioNumero5\bin\Debug\netcoreapp3.1\ejercicioNumero5.runtimeconfig.json
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\ejercicioNumero5\ejercicioNumero5\bin\Debug\netcoreapp3.1\ejercicioNumero5.runtimeconfig.dev.json
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\ejercicioNumero5\ejercicioNumero5\bin\Debug\netcoreapp3.1\ejercicioNumero5.dll
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\ejercicioNumero5\ejercicioNumero5\bin\Debug\netcoreapp3.1\ejercicioNumero5.pdb
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\ejercicioNumero5\ejercicioNumero5\obj\Debug\netcoreapp3.1\ejercicioNumero5.csproj.AssemblyReference.cache
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\ejercicioNumero5\ejercicioNumero5\obj\Debug\netcoreapp3.1\ejercicioNumero5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\ejercicioNumero5\ejercicioNumero5\obj\Debug\netcoreapp3.1\ejercicioNumero5.AssemblyInfoInputs.cache
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\ejercicioNumero5\ejercicioNumero5\obj\Debug\netcoreapp3.1\ejercicioNumero5.AssemblyInfo.cs
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\ejercicioNumero5\ejercicioNumero5\obj\Debug\netcoreapp3.1\ejercicioNumero5.csproj.CoreCompileInputs.cache
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\ejercicioNumero5\ejercicioNumero5\obj\Debug\netcoreapp3.1\ejercicioNumero5.dll
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\ejercicioNumero5\ejercicioNumero5\obj\Debug\netcoreapp3.1\ejercicioNumero5.pdb
+C:\Users\Monta\OneDrive\Documents\Proyectos 2022\ejercicioNumero5\ejercicioNumero5\obj\Debug\netcoreapp3.1\ejercicioNumero5.genruntimeconfig.cache
