@@ -12,3 +12,17 @@ C:\Users\Monta\OneDrive\Documents\Proyectos 2022\ejercicioNumero6\ejercicioNumer
 C:\Users\Monta\OneDrive\Documents\Proyectos 2022\ejercicioNumero6\ejercicioNumero6\obj\Debug\netcoreapp3.1\ejercicioNumero6.dll
 C:\Users\Monta\OneDrive\Documents\Proyectos 2022\ejercicioNumero6\ejercicioNumero6\obj\Debug\netcoreapp3.1\ejercicioNumero6.pdb
 C:\Users\Monta\OneDrive\Documents\Proyectos 2022\ejercicioNumero6\ejercicioNumero6\obj\Debug\netcoreapp3.1\ejercicioNumero6.genruntimeconfig.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\programacionEjercicios\ejercicioNumero6\ejercicioNumero6\bin\Debug\netcoreapp3.1\ejercicioNumero6.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\programacionEjercicios\ejercicioNumero6\ejercicioNumero6\bin\Debug\netcoreapp3.1\ejercicioNumero6.deps.json
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\programacionEjercicios\ejercicioNumero6\ejercicioNumero6\bin\Debug\netcoreapp3.1\ejercicioNumero6.runtimeconfig.json
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\programacionEjercicios\ejercicioNumero6\ejercicioNumero6\bin\Debug\netcoreapp3.1\ejercicioNumero6.runtimeconfig.dev.json
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\programacionEjercicios\ejercicioNumero6\ejercicioNumero6\bin\Debug\netcoreapp3.1\ejercicioNumero6.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\programacionEjercicios\ejercicioNumero6\ejercicioNumero6\bin\Debug\netcoreapp3.1\ejercicioNumero6.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\programacionEjercicios\ejercicioNumero6\ejercicioNumero6\obj\Debug\netcoreapp3.1\ejercicioNumero6.csproj.AssemblyReference.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\programacionEjercicios\ejercicioNumero6\ejercicioNumero6\obj\Debug\netcoreapp3.1\ejercicioNumero6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\programacionEjercicios\ejercicioNumero6\ejercicioNumero6\obj\Debug\netcoreapp3.1\ejercicioNumero6.AssemblyInfoInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\programacionEjercicios\ejercicioNumero6\ejercicioNumero6\obj\Debug\netcoreapp3.1\ejercicioNumero6.AssemblyInfo.cs
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\programacionEjercicios\ejercicioNumero6\ejercicioNumero6\obj\Debug\netcoreapp3.1\ejercicioNumero6.csproj.CoreCompileInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\programacionEjercicios\ejercicioNumero6\ejercicioNumero6\obj\Debug\netcoreapp3.1\ejercicioNumero6.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\programacionEjercicios\ejercicioNumero6\ejercicioNumero6\obj\Debug\netcoreapp3.1\ejercicioNumero6.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\programacionEjercicios\ejercicioNumero6\ejercicioNumero6\obj\Debug\netcoreapp3.1\ejercicioNumero6.genruntimeconfig.cache
